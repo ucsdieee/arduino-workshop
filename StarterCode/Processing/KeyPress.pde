@@ -1,5 +1,6 @@
 
-/* Use this to read key strokes on your Arduino
+/* File: KeyPress.pde
+ * Use this to read key strokes on your Arduino
  * Author: Antony Nguyen
  */
 
